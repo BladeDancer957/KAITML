@@ -1,4 +1,4 @@
-The PyTorch code for paper: 《Knowledge Aware Emotion Recognition in Textual Conversations via Multi-Task Incremental Transformer》
+The PyTorch code for COLING2020 paper: 《Knowledge Aware Emotion Recognition in Textual Conversations via Multi-Task Incremental Transformer》
 
 The model is based on [The Annotated Transformer](http://nlp.seas.harvard.edu/2018/04/03/attention.html) and [KET](https://github.com/zhongpeixiang/KET)
 
